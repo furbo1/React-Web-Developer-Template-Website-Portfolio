@@ -1,5 +1,6 @@
 # Portfolio/React-RWD-JS
 This is a simple React website template build as part of my portfolio work.
+The Parallax effect was added to the page to improve the design.
 All ulploads are free to use for anyone who wishes to use my work, with no guarantees or future updates, product taken as is.
 - View/test it here : https://furbo1.github.io/React-Web-Developer-Template-Website-Portfolio/
 ![alt text]
